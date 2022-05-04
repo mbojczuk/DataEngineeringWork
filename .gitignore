@@ -3,3 +3,4 @@ FlaskAPIProject/env/
 .env
 .venv
 env/
+.db
