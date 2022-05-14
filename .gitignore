@@ -1,5 +1,7 @@
 __pycache__/
 FlaskAPIProject/env/
+FlaskAPIProject/test.db
+LeagueFlaskApp/env/
 .env
 .venv
 env/
